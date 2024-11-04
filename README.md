@@ -16,7 +16,7 @@
 </div>
 <div align="center">
   <a href="https://github.com/brenoaugustoalves">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brenoaugustoalves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brenoaugustoalves&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoaugustoalves&layout=compact&langs_count=10&theme=dark"/>
 </div>
 
