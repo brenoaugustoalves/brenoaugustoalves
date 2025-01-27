@@ -12,7 +12,9 @@
 
 🌱 Também estou estudando typescript e angular
 
-💬 Sou entusiasta no desenvolvimento Java para APIs
+:mortar_board: Atualmente faço cursos para aprimoramento de habilidades de Hacker Ético. 
+
+:computer: Desenvolvimento de aplicações em Java com API´s externas e internas. 
 
 </div>
 <div align="center">
