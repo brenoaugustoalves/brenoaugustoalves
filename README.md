@@ -6,7 +6,7 @@
 
 <div align="center">
 
-Meu nome é Breno Augusto, formado em Engenharia de Software e pós graduado em Hacker Ético e Defesa Cibernetica :mortar_board:
+ Formado em Engenharia de Software e pós graduado em Hacker Ético e Defesa Cibernetica :mortar_board:
 
 :computer: Trabalho como  Desenvolvedor Back-end e atualmente trabalho com Java e Spring Boot
 
