@@ -12,6 +12,9 @@
 
 :computer: Desenvolvimento de aplicações em Java com API´s externas e internas. 
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenoaugustoalves/)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brenoaugustoalves@gmail.com)  
+
 </div>
 <div align="center">
   <a href="https://github.com/brenoaugustoalves">
