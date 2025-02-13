@@ -6,13 +6,9 @@
 
 <div align="center">
 
- Formado em Engenharia de Software e pós graduado em Hacker Ético e Defesa Cibernetica :mortar_board:
+ Formado em Engenharia de Software :mortar_board:
 
 :computer: Trabalho como  Desenvolvedor Back-end e atualmente trabalho com Java e Spring Boot
-
-🌱 Também estou estudando typescript e angular
-
-:mortar_board: Atualmente faço cursos para aprimoramento de habilidades de Hacker Ético. 
 
 :computer: Desenvolvimento de aplicações em Java com API´s externas e internas. 
 
